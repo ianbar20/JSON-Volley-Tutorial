@@ -1,0 +1,379 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "nextPage": [
+   {
+    "title": "Google Custom Search - *",
+    "totalResults": "368",
+    "searchTerms": "*",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007217277733420028447:nix_swsdmlg"
+   }
+  ],
+  "request": [
+   {
+    "title": "Google Custom Search - *",
+    "totalResults": "368",
+    "searchTerms": "*",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "007217277733420028447:nix_swsdmlg"
+   }
+  ]
+ },
+ "context": {
+  "title": "Thorntech"
+ },
+ "searchInformation": {
+  "searchTime": 0.240675,
+  "formattedSearchTime": "0.24",
+  "totalResults": "368",
+  "formattedTotalResults": "368"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Home - Thorn Technologies - Thorn Technologies",
+   "htmlTitle": "Home - Thorn Technologies - Thorn Technologies",
+   "link": "http://www.thorntech.com/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "We are Android and iOS mobile application developers in Maryland. We build \nbackend enterprise mobile solutions. We develop SMS and Location Based ...",
+   "htmlSnippet": "We are Android and iOS mobile application developers in Maryland. We build \u003cbr\u003e\nbackend enterprise mobile solutions. We develop SMS and Location Based&nbsp;...",
+   "cacheId": "eyINytv934sJ",
+   "formattedUrl": "www.thorntech.com/",
+   "htmlFormattedUrl": "www.thorntech.com/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thorntech.com/wp-content/themes/thorn-tech/scripts/timthumb.php?src=http://www.thorntech.com/wp-content/uploads/2012/08/duke-grails.jpeg&w=940&h=375&zc=1"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "356",
+      "height": "142",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAXeWFmRaiFJ2qp2h_iYdFdslQJk-NpmioguYLsS-oa9QAEmN8foT0TPbU"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Home - Thorn Technologies - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Home - Thorn Technologies",
+      "og:description": "We are Android and iOS mobile application developers in Maryland. We build backend enterprise mobile solutions. We develop SMS and Location Based solutions",
+      "og:url": "http://www.thorntech.com/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "We are Android and iOS mobile application developers in Maryland. We build backend enterprise mobile solutions. We develop SMS and Location Based solutions",
+      "twitter:title": "Home - Thorn Technologies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Location Based Mobile Software Solutions - Thorn Technologies",
+   "htmlTitle": "Location Based Mobile Software Solutions - Thorn Technologies",
+   "link": "http://www.thorntech.com/solutions/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "We provide backend mobile software solutions like location based content \nmanagment, bulk sms, text to vote, text to screen, and push notification platforms.",
+   "htmlSnippet": "We provide backend mobile software solutions like location based content \u003cbr\u003e\nmanagment, bulk sms, text to vote, text to screen, and push notification platforms.",
+   "cacheId": "AjLGicSPBM4J",
+   "formattedUrl": "www.thorntech.com/solutions/",
+   "htmlFormattedUrl": "www.thorntech.com/solutions/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Location Based Mobile Software Solutions - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Location Based Mobile Software Solutions",
+      "og:description": "We provide backend mobile software solutions like location based content managment, bulk sms, text to vote, text to screen, and push notification platforms.",
+      "og:url": "http://www.thorntech.com/solutions/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "We provide backend mobile software solutions like location based content managment, bulk sms, text to vote, text to screen, and push notification platforms.",
+      "twitter:title": "Location Based Mobile Software Solutions"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Contact Us - Thorn Technologies",
+   "htmlTitle": "Contact Us - Thorn Technologies",
+   "link": "http://www.thorntech.com/contact-us/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "Contact Thorn Technologies for your mobile development, web development, or \nenterprise software development needs.",
+   "htmlSnippet": "Contact Thorn Technologies for your mobile development, web development, or \u003cbr\u003e\nenterprise software development needs.",
+   "cacheId": "xLfA6CCmEZQJ",
+   "formattedUrl": "www.thorntech.com/contact-us/",
+   "htmlFormattedUrl": "www.thorntech.com/contact-us/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Contact Us - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Contact Us",
+      "og:description": "Contact Thorn Technologies for your mobile development, web development, or enterprise software development needs.",
+      "og:url": "http://www.thorntech.com/contact-us/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "Contact Thorn Technologies for your mobile development, web development, or enterprise software development needs.",
+      "twitter:title": "Contact Us"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thorn Technologies - We are the Mobile Experts",
+   "htmlTitle": "Thorn Technologies - We are the Mobile Experts",
+   "link": "http://www.thorntech.com/blog/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "6 days ago ... As a retailer, you want to be able to provide your customers with not only great \nproducts, but a great overall buying experience as well.",
+   "htmlSnippet": "6 days ago \u003cb\u003e...\u003c/b\u003e As a retailer, you want to be able to provide your customers with not only great \u003cbr\u003e\nproducts, but a great overall buying experience as well.",
+   "cacheId": "0-Se_odCYvkJ",
+   "formattedUrl": "www.thorntech.com/blog/",
+   "htmlFormattedUrl": "www.thorntech.com/blog/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thorntech.com/wp-content/uploads/2016/02/Android-pay.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "275",
+      "height": "183",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFbLZGhuz9AcJxEwaMtfqvP08Q2iEwua3Wag965QUbcs4VCTfpvxYvA9_"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Thorn Technologies - We are the Mobile Experts",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Blog - Thorn Technologies",
+      "og:description": "Assess your business, determine your goals and objectives, understand your customers, decide on the best mobile payments solution for their needs, then educate your customers and employees As a retailer, you want to be able to provide your customers with not only great products, but a great overall buying experience as well. One of the …",
+      "og:url": "http://www.thorntech.com/blog/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "Assess your business, determine your goals and objectives, understand your customers, decide on the best mobile payments solution for their needs, then educate your customers and employees As a retailer, you want to be able to provide your customers with not only great products, but a great overall buying experience as well. One of the […]",
+      "twitter:title": "Blog - Thorn Technologies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Web and Mobile Software Development Firm - Thorn Technologies",
+   "htmlTitle": "Web and Mobile Software Development Firm - Thorn Technologies",
+   "link": "http://www.thorntech.com/who-we-are/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "Thorn Technologies is a web and mobile software development firm specializing \nin enterprise software solutions for Fortune 500 companies.",
+   "htmlSnippet": "Thorn Technologies is a web and mobile software development firm specializing \u003cbr\u003e\nin enterprise software solutions for Fortune 500 companies.",
+   "cacheId": "TRmNcEa65LwJ",
+   "formattedUrl": "www.thorntech.com/who-we-are/",
+   "htmlFormattedUrl": "www.thorntech.com/who-we-are/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Web and Mobile Software Development Firm - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Web and Mobile Software Development Firm",
+      "og:description": "Thorn Technologies is a web and mobile software development firm specializing in enterprise software solutions for Fortune 500 companies.",
+      "og:url": "http://www.thorntech.com/who-we-are/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "Thorn Technologies is a web and mobile software development firm specializing in enterprise software solutions for Fortune 500 companies.",
+      "twitter:title": "Web and Mobile Software Development Firm"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Maryland Mobile Software Developers - Thorn Technologies",
+   "htmlTitle": "Maryland Mobile Software Developers - Thorn Technologies",
+   "link": "http://www.thorntech.com/what-we-do/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "We are android and iOS mobile application developers in Maryland. We build \nbackend enterprise mobile solutions. We develop SMS and Location Based ...",
+   "htmlSnippet": "We are android and iOS mobile application developers in Maryland. We build \u003cbr\u003e\nbackend enterprise mobile solutions. We develop SMS and Location Based&nbsp;...",
+   "cacheId": "QkxwY4eOZ0QJ",
+   "formattedUrl": "www.thorntech.com/what-we-do/",
+   "htmlFormattedUrl": "www.thorntech.com/what-we-do/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thorntech.com/wp-content/uploads/2013/08/a.jpg"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "160",
+      "height": "54",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1yEj2FqjXDsSeSAjIgUAPcDGnPch3nxLD7cjVyN4KM2F0hyYArmvT7W0"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Maryland Mobile Software Developers - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Maryland Mobile Software Developers",
+      "og:description": "We are android and iOS mobile application developers in Maryland. We build backend enterprise mobile solutions. We develop SMS and Location Based solutions",
+      "og:url": "http://www.thorntech.com/what-we-do/",
+      "og:site_name": "Thorn Technologies",
+      "og:image": "http://www.thorntech.com/wp-content/uploads/2013/08/a.jpg",
+      "twitter:card": "summary",
+      "twitter:description": "We are android and iOS mobile application developers in Maryland. We build backend enterprise mobile solutions. We develop SMS and Location Based solutions",
+      "twitter:title": "Maryland Mobile Software Developers",
+      "twitter:image": "http://www.thorntech.com/wp-content/uploads/2013/08/a.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Sitemap - Thorn Technologies",
+   "htmlTitle": "Sitemap - Thorn Technologies",
+   "link": "http://www.thorntech.com/sitemap.xml",
+   "displayLink": "www.thorntech.com",
+   "snippet": "http://www.thorntech.com/ 2013-08-16T18:34:06+00:00 daily 1.0 http://www.\nthorntech.com/2015/07/4-essential-swift-networking-tools-for-working-with-rest-\napis/ ...",
+   "htmlSnippet": "http://www.thorntech.com/ 2013-08-16T18:34:06+00:00 daily 1.0 http://www.\u003cbr\u003e\nthorntech.com/2015/07/4-essential-swift-networking-tools-for-working-with-rest-\u003cbr\u003e\napis/&nbsp;...",
+   "cacheId": "12_Lb7lsp8UJ",
+   "mime": "text/xml",
+   "formattedUrl": "www.thorntech.com/sitemap.xml",
+   "htmlFormattedUrl": "www.thorntech.com/sitemap.xml"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Recent Work | Thorn Technologies",
+   "htmlTitle": "Recent Work | Thorn Technologies",
+   "link": "http://www.thorntech.com/recent-work/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "We continue to produce quality work. Some of our recent projects include. Navteq \n/ Nokia; H&R Block; Washington Capitals; Caesars Entertainment; Acxiom ...",
+   "htmlSnippet": "We continue to produce quality work. Some of our recent projects include. Navteq \u003cbr\u003e\n/ Nokia; H&amp;R Block; Washington Capitals; Caesars Entertainment; Acxiom&nbsp;...",
+   "cacheId": "UAGd__kFwbcJ",
+   "formattedUrl": "www.thorntech.com/recent-work/",
+   "htmlFormattedUrl": "www.thorntech.com/recent-work/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Recent Work - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Thorn Technologies - We are the Mobile Experts - page 2",
+   "htmlTitle": "Thorn Technologies - We are the Mobile Experts - page 2",
+   "link": "http://www.thorntech.com/blog/page/2/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "Dec 11, 2015 ... Welcome to “The Week in Tech,” where we recap some of the most interesting \ntechnology and mobile stories from the past week. This week we ...",
+   "htmlSnippet": "Dec 11, 2015 \u003cb\u003e...\u003c/b\u003e Welcome to “The Week in Tech,” where we recap some of the most interesting \u003cbr\u003e\ntechnology and mobile stories from the past week. This week we&nbsp;...",
+   "cacheId": "76mhvoiuKy8J",
+   "formattedUrl": "www.thorntech.com/blog/page/2/",
+   "htmlFormattedUrl": "www.thorntech.com/blog/page/2/",
+   "pagemap": {
+    "cse_image": [
+     {
+      "src": "http://www.thorntech.com/wp-content/uploads/2015/12/yahoo-newfront-2015-01.png"
+     }
+    ],
+    "cse_thumbnail": [
+     {
+      "width": "296",
+      "height": "170",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHBiamyb9kwlQ6rA5Efld8-FzU60wH2NBm7H1K4Wy2bCzBudsVKfGJ5MMA"
+     }
+    ],
+    "metatags": [
+     {
+      "title": "Thorn Technologies - We are the Mobile Experts - page 2",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "website",
+      "og:title": "Blog - Page 2 of 20 - Thorn Technologies",
+      "og:description": "Welcome to “The Week in Tech,” where we recap some of the most interesting technology and mobile stories from the past week. This week we highlight Yahoo’s spin-off of its core business, Walmart Pay, Twitter’s non-chronological feed, and Samsung’s move into the automotive business. Yahoo to spin off core business and keep Alibaba stake Yahoo’s board …",
+      "og:url": "http://www.thorntech.com/blog/page/2/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "Welcome to “The Week in Tech,” where we recap some of the most interesting technology and mobile stories from the past week. This week we highlight Yahoo’s spin-off of its core business, Walmart Pay, Twitter’s non-chronological feed, and Samsung’s move into the automotive business. Yahoo to spin off core business and keep Alibaba stake Yahoo’s board […]",
+      "twitter:title": "Blog - Page 2 of 20 - Thorn Technologies"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Mobile App Development | Baltimore MD - Thorn Technologies",
+   "htmlTitle": "Mobile App Development | Baltimore MD - Thorn Technologies",
+   "link": "http://www.thorntech.com/what-we-do/mobile-app-development/",
+   "displayLink": "www.thorntech.com",
+   "snippet": "Thorn Technologies specializes in mobile app development for Android, iPhone, \nWindows Phone and Blackberry devices. Maryland based just south of ...",
+   "htmlSnippet": "Thorn Technologies specializes in mobile app development for Android, iPhone, \u003cbr\u003e\nWindows Phone and Blackberry devices. Maryland based just south of&nbsp;...",
+   "cacheId": "tvn7d-N5KmoJ",
+   "formattedUrl": "www.thorntech.com/what-we-do/mobile-app-development/",
+   "htmlFormattedUrl": "www.thorntech.com/what-we-do/mobile-app-development/",
+   "pagemap": {
+    "metatags": [
+     {
+      "title": "Mobile App Development | Baltimore MD - Thorn Technologies",
+      "dc.title": "Thorn Technologies",
+      "dc.subject": "We are the Mobile Experts",
+      "dc.creator": "Thorn Technologies",
+      "og:locale": "en_US",
+      "og:type": "article",
+      "og:title": "Mobile App Development | Baltimore MD",
+      "og:description": "Thorn Technologies specializes in mobile app development for Android, iPhone, Windows Phone and Blackberry devices. Maryland based just south of Baltimore, MD",
+      "og:url": "http://www.thorntech.com/what-we-do/mobile-app-development/",
+      "og:site_name": "Thorn Technologies",
+      "twitter:card": "summary",
+      "twitter:description": "Thorn Technologies specializes in mobile app development for Android, iPhone, Windows Phone and Blackberry devices. Maryland based just south of Baltimore, MD",
+      "twitter:title": "Mobile App Development | Baltimore MD"
+     }
+    ]
+   }
+  }
+ ]
+}
