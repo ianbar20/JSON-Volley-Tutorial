@@ -31,13 +31,13 @@
         "shapeArray":[
             {
                 "shapeName":"circle"
-            }
+            },
             {
                 "shapeName":"square"
-            }
+            },
             {
                 "shapeName":"triangle"
-            }
+            },
             {
                 "shapeName":"hexagon"
             }
