@@ -3,7 +3,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context="com.example.ian.advexample.MainActivity">
+    android:layout_marginLeft="16dp"
+    android:layout_marginRight="16dp"
+    tools:context="com.example.ian.basicexample.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
@@ -14,7 +16,6 @@
         android:textSize="20sp"
         android:textStyle="bold"
         android:id="@+id/jsonData"
-        android:layout_marginTop="30dp"
         android:textColor="#000000" />
 
 </ScrollView>
