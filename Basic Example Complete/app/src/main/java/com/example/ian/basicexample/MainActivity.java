@@ -1,3 +1,4 @@
+//NOTE: your package will be different than mine!
 package com.example.ian.basicexample;
 
 import android.support.v7.app.AppCompatActivity;
@@ -11,23 +12,17 @@ import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
-
-import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
 
 public class MainActivity extends AppCompatActivity {
-
     // Will show the string "data" that holds the results
     TextView results;
-
     // URL of object to be parsed
     String JsonURL = "https://raw.githubusercontent.com/ianbar20/JSON-Volley-Tutorial/master/Example-JSON-Files/Example-Object.JSON";
-
     // This string will hold the results
     String data = "";
-
     // Defining the Volley request queue that handles the URL request concurrently
     RequestQueue requestQueue;
 
@@ -35,10 +30,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        // Creates the Volley request queue
         requestQueue = Volley.newRequestQueue(this);
 
-        //casts results into the TextView found within the main layout XML with id jsonData
+        // Casts results into the TextView found within the main layout XML with id jsonData
         results = (TextView) findViewById(R.id.jsonData);
 
         // Creating the JsonObjectRequest class called obreq, passing required parameters:
