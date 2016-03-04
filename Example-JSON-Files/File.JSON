@@ -1,0 +1,21 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "6200 Larkspur Dr, Alexandria, VA 22310, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.783947,
+               "lng" : -77.145566
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "e7c90e3fdae2def6a2f66f40aa220589c483ef97",
+         "name" : "6200 Larkspur Dr",
+         "place_id" : "ChIJ2za52Hyyt4kRFruoXspYJV8",
+         "reference" : "CpQBiQAAAFt01VHcsfVTM7Sxzyf6wm7WaCvqIRx8xo4xo_a5flJB_cE4inb42wWWl8vgGY-8smtk9Y9mgU2koyzedNfRxMA1VFaUkf8tG5PU6n0Fgibi9xiUxGjn_uvqrmt2WgGa7FI8w5d5JGeZ7LfCmug45Xbgtr6UfkWSAPJL8t7kPEa0jKTbnz4nWC87kkNrZdCTPxIQUuz1QWDjn0nwp7OLC-TnLRoURbu9zv6Go1TNMDCAZ93idfSRm4k",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
